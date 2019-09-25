@@ -1,0 +1,2 @@
+# veryBasicNeurone
+Perceptron implementation 
